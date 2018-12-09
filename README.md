@@ -2,4 +2,5 @@
 
 about work
 
-Hello,everyone! This is my edit test and I hope I can succense.
+well, I delete something and add something.
+Hello,everyone! I hope I can succense.
